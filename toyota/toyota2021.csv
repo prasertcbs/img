@@ -1,0 +1,40 @@
+model,year,img_url,price_usd,cty_mpg,hwy_mpg
+4Runner,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/4runner/base.png,43150.0,16,19
+86,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/86/base.png,31885.0,21,28
+Avalon,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/avalon/base.png,43000.0,22,32
+Avalon,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/avalon/base.png,43100.0,22,32
+Avalon Hybrid,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/avalonhybrid/base.png,43300.0,43,44
+Avalon Hybrid,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/avalonhybrid/base.png,43400.0,43,44
+C-HR,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/c-hr/base.png,27275.0,27,31
+C-HR,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/c-hr/base.png,27525.0,27,31
+Camry,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/camry/base.png,35555.0,29,41
+Camry,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/camry/base.png,35970.0,28,39
+Camry Hybrid,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/camryhybrid/base.png,32730.0,51,53
+Camry Hybrid,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/camryhybrid/base.png,33220.0,51,53
+Corolla,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/corolla/base.png,25550.0,31,40
+Corolla,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/corolla/base.png,25925.0,31,40
+Corolla Hatchback,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/corollahatchback/base.png,24340.0,30,38
+Corolla Hatchback,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/corollahatchback/base.png,24715.0,30,38
+Corolla Hybrid,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/corollahybrid/base.png,23525.0,53,52
+Corolla Hybrid,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/corollahybrid/base.png,24025.0,53,52
+GR Supra,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/gr-supra/base.png,55250.0,24,31
+GR Supra,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/gr-supra/base.png,55990.0,22,30
+Highlander,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/highlander/base.png,49225.0,21,29
+Highlander,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/highlander/base.png,49440.0,21,29
+Highlander Hybrid,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/highlanderhybrid/base.png,50200.0,36,35
+Highlander Hybrid,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/highlanderhybrid/base.png,50840.0,36,35
+Land Cruiser,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/landcruiser/base.png,87995.0,13,17
+Mirai,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/mirai/base.png,66425.0,67,64
+Prius,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/prius/base.png,30300.0,54,50
+Prius Prime,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/priusprime/base.png,34425.0,54,133
+RAV4,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/rav4/base.png,34680.0,28,35
+RAV4 Hybrid,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/rav4hybrid/base.png,34600.0,41,38
+RAV4 Prime,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/rav4prime/base.png,47610.0,38,94
+Sequoia,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/sequoia/base.png,58990.0,13,17
+Sequoia,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/sequoia/base.png,59220.0,13,17
+Sienna,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/sienna/base.png,37790.0,19,27
+Sienna,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/sienna/base.png,42000.0,36,36
+Tacoma,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/tacoma/base.png,37380.0,18,22
+Tundra,2020,https://www.toyota.com/imgix/responsive/images/jellies/2020/tundra/base.png,49915.0,13,18
+Tundra,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/tundra/base.png,47455.0,13,17
+Venza,2021,https://www.toyota.com/imgix/responsive/images/jellies/2021/venza/base.png,39800.0,40,37
