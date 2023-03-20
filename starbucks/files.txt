@@ -49,7 +49,6 @@ Evian.png
 Exotic Juice 330 ml.png
 Fairtrade Espresso.png
 Fairtrade Espresso Decaf.png
-files.txt
 Frappuccino Crème Caramel.png
 Frappuccino Crème Chai Tea.png
 Frappuccino Crème Matcha.png
